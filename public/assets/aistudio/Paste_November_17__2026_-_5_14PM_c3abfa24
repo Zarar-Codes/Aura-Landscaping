@@ -1,0 +1,820 @@
+AURA LANDSCAPING — COMPLETE PREMIUM WEBSITE DESIGN & DEVELOPMENT
+YOUR ROLE
+Act as an elite creative director, award-winning digital product designer, senior UI/UX architect, motion designer, SEO specialist, and expert React/TypeScript frontend developer.
+Your task is to create an extraordinary, premium, highly animated, conversion-focused website for Aura Landscaping.
+This is a professional website redesign concept created by InoDo.
+Existing business website:
+https://auralandscaping.com/
+Instagram:
+https://www.instagram.com/aura_landscaping/
+Facebook:
+https://www.facebook.com/AuraLandscaping/wall/
+I have also provided a screenshot of the original Aura Landscaping website. Use it as a reference for the original brand identity, logo, navigation styling, and color palette.
+The final website should look like a bespoke digital experience designed by a high-end creative agency.
+Do not produce a generic AI-generated landscaping template.
+Build a visually distinctive website with:
+Premium art direction.
+Exceptional typography.
+Cinematic landscape photography.
+Sophisticated animations.
+Interactive portfolio elements.
+Creative section compositions.
+Excellent responsive layouts.
+Strong conversion-focused UX.
+Professional technical SEO.
+IMPORTANT PROJECT STRUCTURE:
+There will be ONLY ONE fully developed Aura Landscaping business page: the homepage.
+All other navigation pages must contain ONLY a single-screen promotional message encouraging Aura Landscaping to hire InoDo.
+Do not build additional Aura business pages.
+---
+01. BRAND IDENTITY & VISUAL DIRECTION
+Understand the original Aura brand
+The supplied screenshot shows the original brand identity.
+Preserve its recognizable characteristics:
+Elegant script-style Aura logo.
+Orange navigation highlight.
+White and translucent navigation background.
+Black typography.
+Natural landscaping photography.
+Architectural outdoor spaces.
+Greenery, stone, wood, and natural textures.
+The redesigned website must evolve this identity, not replace it.
+Do not turn the brand into an unrelated dark-green luxury landscaping template.
+Design philosophy
+Combine:
+Modern editorial web design.
+Luxury landscape architecture.
+Organic visual storytelling.
+Contemporary architectural photography.
+Minimalist premium interfaces.
+Cinematic motion design.
+The overall experience should feel:
+Elegant, natural, sophisticated, confident, immersive, modern, and memorable.
+Avoid:
+Generic website-builder layouts.
+Repetitive three-column cards.
+Excessive rounded containers.
+Cheap gradients.
+Random glowing elements.
+Cartoon illustrations.
+Unnecessary glassmorphism.
+Excessive floating circles.
+Repetitive section structures.
+Excessive decorative elements.
+Poorly balanced whitespace.
+Use asymmetrical layouts, overlapping photography, editorial typography, creative grids, large image compositions, and elegant dividers.
+---
+02. COMPLETE DESIGN SYSTEM
+Color palette
+Use this color system consistently.
+PRIMARY ORANGE:
+#D35400
+DEEP ORANGE:
+#C84B00
+LIGHT ORANGE:
+#F0A06A
+PURE WHITE:
+#FFFFFF
+SOFT WHITE:
+#F7F7F4
+LIGHT GRAY:
+#E9E9E5
+DARK CHARCOAL:
+#202020
+MUTED GRAY:
+#777777
+NATURAL GREEN:
+#354A36
+DEEP FOREST:
+#203328
+COLOR APPLICATION:
+Primary backgrounds: White and Soft White.
+Primary typography: Dark Charcoal.
+Main accent: Primary Orange.
+Active navigation: Primary Orange.
+Primary buttons: Primary Orange.
+Secondary sections: Natural Green and Deep Forest.
+Subtle dividers: Light Gray.
+Supporting text: Muted Gray.
+Orange must remain the most recognizable accent throughout the experience.
+Use green only to complement the natural landscaping photography and provide contrast in selected sections.
+Maintain accessible text contrast.
+Typography system
+Typography is one of the most important elements of this design.
+Use the following font pairing:
+DISPLAY HEADINGS:
+Cormorant Garamond
+BODY TEXT:
+Manrope
+NAVIGATION:
+Manrope
+EDITORIAL EMPHASIS:
+Cormorant Garamond Italic
+LOGO:
+Use the original Aura logo asset whenever available.
+Typography rules:
+Large editorial-style headings.
+Elegant serif typography.
+Beautiful italic emphasis.
+Modern sans-serif body text.
+Controlled line lengths.
+Excellent vertical rhythm.
+Consistent letter spacing.
+Responsive font scaling.
+Distinct heading hierarchy.
+Use CSS clamp() for fluid typography.
+Avoid excessive font weights.
+Create a sophisticated visual contrast between serif headings and clean sans-serif supporting text.
+Layout system
+Maximum content width: 1440px.
+Main content width: 88–92%.
+Desktop section spacing: 100–150px.
+Tablet section spacing: 80–100px.
+Mobile section spacing: 65–85px.
+Desktop grid: 12 columns.
+Use consistent spacing tokens.
+Use asymmetric image layouts.
+Maintain excellent visual balance.
+Do not make every section look identical.
+---
+03. NAVIGATION DESIGN
+Recreate and improve the original Aura navigation.
+Navigation items:
+HOME
+WHY CHOOSE AURA?
+GALLERY
+MEDIA
+SERVICES
+CONTACT US
+Desktop design
+Left:
+Original Aura Landscaping logo.
+Right:
+Navigation links arranged horizontally.
+Design characteristics:
+White translucent background.
+Subtle backdrop blur.
+Orange active navigation item.
+Black navigation typography.
+Fine borders.
+Elegant spacing.
+Premium hover interactions.
+Make the navigation sticky on scroll.
+Initially, it should have a translucent appearance over the hero image.
+When the user scrolls, transition into a more solid white background with a subtle shadow or bottom border.
+Navigation interactions
+Implement:
+Smooth orange underline animation.
+Animated active item background.
+Subtle text movement on hover.
+Smooth background transitions.
+Elegant mobile menu.
+Animated hamburger-to-close transformation.
+Do not use oversized navigation links.
+Mobile navigation
+Create a premium mobile menu with:
+Aura logo.
+Animated menu icon.
+Full-screen or large overlay navigation.
+Smooth entrance and exit transitions.
+Clear navigation links.
+Orange interactive highlights.
+Every navigation item must work.
+---
+04. HOMEPAGE — COMPLETE BUSINESS WEBSITE
+The homepage is the ONLY fully developed Aura Landscaping business page.
+Create a premium, visually impressive one-page experience.
+The homepage should contain the following sections in this exact order.
+SECTION 01 — CINEMATIC HERO
+<visual direction>
+Full-screen luxury landscape photography, architectural backyard design, beautiful outdoor living space, cinematic lighting, natural greenery and stone textures.
+</visual direction>
+Create an immersive full-width hero.
+Image:
+Use a stunning high-quality landscaping photograph featuring a sophisticated outdoor living environment.
+The image should occupy almost the entire first viewport.
+Add:
+Subtle dark image overlay.
+Elegant navigation above the image.
+Large editorial typography.
+Orange accent.
+Scroll indicator.
+Small eyebrow:
+LANDSCAPE DESIGN · OUTDOOR LIVING
+Main heading:
+"Transform Your
+Outdoor Space."
+Use Cormorant Garamond.
+Make "Outdoor Space" visually distinctive, with elegant italic emphasis or subtle orange highlighting.
+Supporting text:
+"Discover beautiful outdoor spaces designed to bring more character, comfort, and life to your surroundings."
+Primary CTA:
+EXPLORE OUR WORK
+Secondary CTA:
+CONTACT AURA
+Add a small bottom-right editorial label:
+"OUTDOOR LIVING, REIMAGINED"
+Hero animation
+Create a cinematic opening sequence:
+Background image reveals through an animated mask.
+Small eyebrow fades in.
+Heading reveals word by word.
+Italic text enters with a slight delay.
+Supporting paragraph fades upward.
+CTA buttons animate into view.
+Scroll indicator begins a subtle animation.
+Add very subtle parallax to the background image.
+The hero must look like a premium landscaping brand campaign.
+Avoid excessive movement.
+---
+SECTION 02 — BRAND INTRODUCTION
+Background: Soft White.
+Layout: Asymmetric editorial composition.
+Left:
+Small eyebrow:
+THE AURA EXPERIENCE
+Large heading:
+"Where outdoor living
+meets thoughtful design."
+Highlight selected words using Cormorant Garamond Italic.
+Right:
+Supporting text:
+"An outdoor space should be more than an extension of your home. It should be somewhere to relax, connect, and enjoy the moments that matter."
+Use a large architectural landscaping photograph beside or below the content.
+Add a small image caption.
+Design:
+Large typography.
+Generous whitespace.
+Asymmetric alignment.
+Overlapping image composition.
+Small orange decorative line.
+Animation:
+Text reveal on scroll.
+Image clipping reveal.
+Subtle parallax.
+Staggered entrance.
+Do not invent company history or business achievements.
+---
+SECTION 03 — WHY CHOOSE AURA?
+Background: White.
+Small eyebrow:
+WHY AURA LANDSCAPING
+Heading:
+"Thoughtful spaces.
+Beautifully transformed."
+Create a sophisticated split-screen layout.
+One side:
+Large landscape photograph.
+Other side:
+A carefully designed set of editable brand-value statements.
+Suggested copy:
+01 — THOUGHTFUL DESIGN
+"Outdoor spaces that balance visual appeal with everyday functionality."
+02 — ATTENTION TO DETAIL
+"Carefully considered materials, textures, and finishing touches."
+03 — OUTDOOR LIVING
+"Spaces designed to make spending time outdoors more enjoyable."
+04 — PERSONAL CHARACTER
+"Outdoor environments that feel welcoming and thoughtfully composed."
+These are proposed positioning statements, not verified company-specific guarantees or claims.
+Use elegant numbered typography and fine dividers.
+Avoid generic icon cards.
+Add a CTA:
+DISCOVER THE POSSIBILITIES
+---
+SECTION 04 — SERVICES SHOWCASE
+Background: Deep Forest or Dark Charcoal.
+Small eyebrow:
+WHAT WE CREATE
+Heading:
+"Explore the possibilities."
+Create an immersive service presentation using large editorial rows.
+Suggested categories based on the existing business website and available references:
+01 — CUSTOM DECKS
+02 — OUTDOOR PATIOS
+03 — BACKYARD TRANSFORMATIONS
+04 — OUTDOOR FIREPLACES
+05 — PUTTING GREENS & RECREATIONAL SPACES
+Important:
+Treat these as editable suggested categories. Verify each against the existing business website before presenting it as an actual Aura service.
+Layout
+Each service should have:
+Large title.
+Small index number.
+Short editable description.
+Fine horizontal divider.
+Animated arrow.
+Associated landscaping image.
+Do not use ordinary service cards.
+Interactions
+When hovering over a service row:
+A corresponding image appears with a smooth reveal.
+Image scales subtly.
+Title shifts slightly.
+Arrow animates.
+Orange accent appears.
+Row transitions smoothly.
+For mobile:
+Display the corresponding images directly.
+Do not make any essential content dependent on hover.
+Add CTA:
+LET'S DISCUSS YOUR PROJECT
+---
+SECTION 05 — FEATURED PROJECTS / GALLERY
+Background: Soft White.
+Small eyebrow:
+SELECTED WORK
+Heading:
+"Outdoor spaces worth experiencing."
+Create a visually exceptional portfolio gallery.
+This section must feel like an architecture and landscape design magazine.
+Gallery composition
+Use a varied asymmetric image grid:
+One large featured image.
+Two smaller supporting images.
+One wide landscape image.
+One additional editorial image.
+Use varied image proportions.
+Potential image categories:
+Contemporary backyard decks.
+Landscaped patios.
+Outdoor fireplaces.
+Putting greens.
+Modern backyard environments.
+Use real Aura project images when available.
+If actual images cannot be retrieved, use representative stock photography. Clearly treat it as illustrative rather than verified Aura project work.
+Each image should have:
+Editable project title.
+Short neutral description.
+Category.
+Small arrow interaction.
+Do not invent client names, addresses, project dates, or project outcomes.
+Animations
+Image reveal masks.
+Subtle zoom on hover.
+Staggered gallery entrance.
+Animated image captions.
+Smooth transitions.
+Slight movement on hover.
+Add a beautiful CTA:
+EXPLORE THE POSSIBILITIES
+Do not create a generic portfolio card grid.
+---
+SECTION 06 — CINEMATIC VISUAL BREAK
+Create a full-width photographic section.
+Use an impressive image of a landscaped outdoor living area.
+Overlay large editorial text:
+"Make room for
+better moments."
+Use Cormorant Garamond with italic emphasis.
+Add a small orange accent line.
+Add a subtle CTA:
+START YOUR PROJECT
+Animations:
+Image mask reveal.
+Parallax image movement.
+Heading fade-up.
+Slow image scale transition.
+This section should provide an emotional visual pause.
+---
+SECTION 07 — DESIGN PHILOSOPHY
+Background: White.
+Use a large split-screen composition.
+Left:
+Large photograph of a beautifully designed outdoor space.
+Right:
+Small eyebrow:
+OUR APPROACH
+Heading:
+"Beauty in every detail."
+Supporting text:
+"From the overall layout to the finer details, a well-designed outdoor space should feel balanced, inviting, and naturally connected to its surroundings."
+Add three short editorial principles:
+Form and function.
+Natural materials.
+Thoughtful outdoor living.
+Use a visually interesting composition rather than ordinary feature cards.
+---
+SECTION 08 — STRONG CONVERSION CTA
+Background: Deep Forest.
+Use a full-width section with a beautiful outdoor background image or subtle natural texture.
+Large heading:
+"Your outdoor space
+has more to offer."
+Supporting text:
+"Let's explore the possibilities for your next outdoor project."
+Primary CTA:
+REQUEST A QUOTE
+Secondary CTA:
+CONTACT AURA
+Design:
+Large elegant typography.
+Orange button.
+Sophisticated image overlay.
+Minimal decorative elements.
+Beautiful spacing.
+Add an animated arrow to the main button.
+---
+SECTION 09 — CONTACT SECTION
+Background: Soft White.
+Create a premium two-column layout.
+Left side:
+Small eyebrow:
+LET'S CONNECT
+Heading:
+"Let's talk about
+your outdoor project."
+Supporting text:
+"Have an idea for your outdoor space? Get in touch to start a conversation."
+Display only contact information verified from the existing Aura website.
+Use clickable phone and email links where available.
+Right side:
+Create a premium contact form.
+Fields:
+Full Name.
+Email Address.
+Phone Number.
+Project Type.
+Project Location.
+Tell Us About Your Project.
+Submit button:
+SEND INQUIRY
+Form behavior
+Implement:
+Required-field validation.
+Email validation.
+Clear error states.
+Loading state.
+Accessible labels.
+Success confirmation only after actual successful submission.
+If no backend is connected, provide a clearly identified demo state and prepare the form integration point.
+Never pretend that an inquiry has been sent when it has not.
+---
+SECTION 10 — PREMIUM FOOTER
+Create a visually sophisticated footer.
+Include:
+Original Aura logo.
+Short brand statement.
+Homepage navigation.
+Social links.
+Verified contact details.
+Copyright information.
+Large closing phrase:
+"Beautiful spaces.
+Better living."
+Use a dark charcoal or forest background with white typography and orange accents.
+Add a subtle animated divider.
+Include a small Back to Top interaction.
+---
+05. SECONDARY PAGES — STRICT INODO PROMOTIONAL SCREENS
+THIS REQUIREMENT IS NON-NEGOTIABLE.
+There must be only ONE fully developed Aura Landscaping business page.
+The homepage contains all actual Aura Landscaping business content.
+All other navigation routes must be simple, visually impressive promotional screens for InoDo.
+Do NOT build additional Aura Landscaping pages.
+Do NOT populate the secondary pages with services, galleries, about sections, business details, or other content.
+Routes to create
+/why-choose-aura
+/gallery
+/media
+/services
+/contact
+EXACT CONTENT FOR EVERY SECONDARY PAGE
+Every secondary page must contain ONLY:
+Small eyebrow:
+"A WEBSITE CONCEPT BY INODO"
+Main heading:
+"Like what you see?"
+Supporting text:
+"Let's build something extraordinary for your business."
+Primary CTA:
+"HIRE INODO TO BUILD THIS"
+Destination:
+https://inodo.net
+Secondary CTA:
+"BACK TO HOMEPAGE"
+Destination:
+/
+Small signature:
+"Website concept designed by InoDo."
+Do not add any other sections or content.
+Visual design
+Each page should fill the viewport.
+Use:
+Beautiful landscaping photography.
+Full-screen image background.
+Sophisticated dark overlay.
+Large Cormorant Garamond typography.
+Manrope supporting text.
+Orange CTA button.
+Elegant decorative lines.
+Subtle parallax.
+Cinematic image reveal.
+Smooth heading entrance.
+Animated button interactions.
+The pages should feel like exclusive agency-designed promotional screens, not unfinished pages.
+Give each route a different visual composition
+Keep the same content, but vary the composition:
+/why-choose-aura:
+Centered typography with an immersive full-screen background.
+/gallery:
+Asymmetric typography over a dramatic outdoor landscape image.
+/media:
+Large editorial typography with an animated orange accent.
+/services:
+Beautifully centered typography with a sophisticated image-mask transition.
+/contact:
+A cinematic background with a large prominent orange CTA.
+All routes must show the same InoDo promotional message and the same two CTA buttons.
+ABSOLUTE RESTRICTIONS
+Do not include:
+Aura service descriptions.
+Aura business information.
+Aura project galleries.
+Aura testimonials.
+Aura company history.
+Aura contact information.
+Contact forms.
+Service cards.
+Additional content sections.
+Repeated homepage sections.
+Extra promotional paragraphs.
+Long explanations.
+Content below the promotional screen.
+The secondary pages must be one-screen InoDo promotional experiences ONLY.
+Do not interpret this as a request to build full business pages.
+---
+06. ADVANCED MOTION DESIGN
+The website must be significantly more animated than a standard business website.
+Use Framer Motion as the primary animation system.
+Use GSAP only when a specific advanced interaction genuinely benefits from it.
+Create a consistent motion language.
+Global animations
+Cinematic page entrance.
+Staggered heading reveals.
+Word-by-word text animations.
+Scroll-triggered section reveals.
+Image clipping transitions.
+Smooth parallax.
+Animated navigation indicators.
+Button hover animations.
+Image zoom interactions.
+Animated dividers.
+Smooth route transitions.
+Section-to-section visual transitions.
+Advanced creative interactions
+Add selected high-quality effects:
+Image-following previews on desktop service rows.
+Animated image masks.
+Subtle floating image compositions.
+Magnetic-feeling CTA hover effects.
+Text reveal transitions.
+Smooth image depth effects.
+Creative scroll indicators.
+Animated orange accent lines.
+Do not use all effects everywhere.
+Prioritize visual quality over animation quantity.
+Animation timing
+Micro-interactions: 200–350ms.
+Text reveals: 600–900ms.
+Image reveals: 800–1200ms.
+Section transitions: 500–800ms.
+Use smooth easing curves.
+Prefer transform and opacity animations.
+Avoid expensive continuous animations.
+Respect prefers-reduced-motion.
+Disable unnecessary parallax on mobile.
+---
+07. PREMIUM UI MICRO-INTERACTIONS
+Buttons:
+Orange background.
+Smooth color transitions.
+Animated arrows.
+Subtle hover scale.
+Elegant focus states.
+Navigation:
+Orange active indicator.
+Animated underline.
+Smooth mobile menu.
+Sticky background transition.
+Images:
+Subtle zoom.
+Smooth clipping reveal.
+Elegant hover transitions.
+Typography:
+Staggered text.
+Italic emphasis.
+Smooth entrance animations.
+Forms:
+Animated focus borders.
+Clear validation.
+Loading and success states.
+All interactions must have a functional purpose.
+---
+08. SEO OPTIMIZATION
+Optimize the homepage for relevant landscaping and outdoor living search intent.
+Suggested SEO title:
+Aura Landscaping | Landscaping & Outdoor Living
+Suggested meta description:
+Explore Aura Landscaping and discover outdoor living inspiration, landscaping services, decks, patios, and beautiful backyard spaces.
+Suggested keyword themes:
+Landscaping.
+Landscape design.
+Outdoor living.
+Backyard landscaping.
+Custom decks.
+Outdoor patios.
+Backyard transformations.
+Outdoor fireplaces.
+Landscape construction.
+Use keywords naturally.
+Implement:
+Semantic HTML5.
+One primary H1.
+Logical H2 and H3 structure.
+Unique metadata.
+Open Graph tags.
+Social sharing metadata.
+Descriptive image alt text.
+XML sitemap.
+robots.txt.
+Canonical URL configuration.
+Clean URLs.
+Internal linking.
+Optimized page loading.
+Relevant structured data when verified business details are available.
+Do not invent business location, address, service areas, opening hours, or geographic coordinates.
+Remember: this is a concept website, not the official live website.
+---
+09. PERFORMANCE OPTIMIZATION
+The website must be visually impressive without becoming slow.
+Implement:
+WebP and AVIF images where available.
+Responsive image sizing.
+Lazy loading for below-the-fold images.
+Priority loading for the hero image.
+Optimized fonts.
+Code splitting.
+Lazy loading of secondary routes.
+Proper image dimensions.
+Minimal unnecessary JavaScript.
+Efficient animation rendering.
+Reduced unnecessary component re-renders.
+Layout shift prevention.
+Target excellent Core Web Vitals.
+Do not sacrifice loading performance for visual effects.
+---
+10. RESPONSIVE DESIGN
+Create intentional responsive layouts for:
+360px mobile.
+390px mobile.
+430px mobile.
+768px tablet.
+1024px laptop.
+1440px desktop.
+1920px large desktop.
+Mobile requirements:
+Fully responsive navigation.
+Beautiful mobile hero composition.
+Proper typography scaling.
+Correct image cropping.
+No horizontal overflow.
+Comfortable touch targets.
+Proper spacing.
+Mobile-friendly gallery.
+Readable contact form.
+No hover-dependent functionality.
+Reduced animation complexity.
+Do not simply shrink the desktop design.
+The mobile version should feel intentionally designed.
+---
+11. ACCESSIBILITY
+Follow WCAG 2.2 AA principles where practical.
+Implement:
+Keyboard accessibility.
+Visible focus indicators.
+Accessible navigation.
+Semantic buttons and links.
+Proper form labels.
+Appropriate ARIA attributes.
+Sufficient color contrast.
+Descriptive image alt text.
+Reduced-motion support.
+---
+12. TECHNICAL ARCHITECTURE
+Use:
+React.
+TypeScript.
+Vite.
+Tailwind CSS.
+Framer Motion.
+React Router.
+Lucide React.
+Use reusable components:
+Navbar.
+MobileMenu.
+HeroSection.
+IntroductionSection.
+WhyAuraSection.
+ServicesSection.
+ServiceRow.
+PortfolioSection.
+PortfolioItem.
+VisualStatement.
+DesignPhilosophy.
+CTASection.
+ContactSection.
+ContactForm.
+Footer.
+InodoPromotionalPage.
+Create a reusable InodoPromotionalPage component that accepts a background image and composition variant.
+Use it for every secondary route.
+This will ensure that all secondary routes have consistent content and behavior.
+Keep the project organized and maintainable.
+Do not install unnecessary dependencies.
+Do not create duplicate components.
+All buttons and navigation links must work.
+---
+13. BUSINESS INFORMATION AND IMAGE ACCURACY
+Use the existing Aura Landscaping website and its available content as the source of truth.
+Preserve genuine business information.
+Do not invent:
+Testimonials.
+Customer reviews.
+Awards.
+Ratings.
+Years of experience.
+Number of completed projects.
+Team members.
+Business history.
+Guarantees.
+Pricing.
+Geographic coverage.
+Business achievements.
+For imagery:
+Prioritize genuine Aura Landscaping photographs.
+Use existing project photographs where accessible.
+Use representative premium landscaping stock images if original photographs are unavailable.
+Never present stock images as verified Aura projects.
+Maintain consistent photographic color grading.
+Avoid repetitive images.
+Avoid unrelated garden photography.
+Avoid obvious AI-generated image artifacts.
+Use editable content where business details need verification.
+---
+14. FINAL QUALITY ASSURANCE
+Before declaring the website finished, verify every requirement.
+Homepage
+[ ] Premium Aura branding.
+[ ] Original logo preserved.
+[ ] Orange and white visual identity.
+[ ] Elegant typography.
+[ ] Cinematic hero.
+[ ] Complete homepage sections.
+[ ] High-quality image compositions.
+[ ] Advanced but smooth animations.
+[ ] Functional CTAs.
+[ ] Working contact form behavior.
+[ ] Responsive desktop and mobile layouts.
+Secondary pages
+[ ] All five secondary routes exist.
+[ ] Each secondary route contains ONLY the InoDo promotional screen.
+[ ] Every page has the exact same promotional message.
+[ ] HIRE INODO TO BUILD THIS links to https://inodo.net.
+[ ] BACK TO HOMEPAGE links to /.
+[ ] No additional Aura business content.
+[ ] No service sections.
+[ ] No gallery sections.
+[ ] No testimonials.
+[ ] No contact forms.
+[ ] No content below the promotional screen.
+Technical
+[ ] No broken routes.
+[ ] No dead buttons.
+[ ] No broken images.
+[ ] No console errors.
+[ ] No horizontal overflow.
+[ ] Responsive layouts tested.
+[ ] SEO metadata configured.
+[ ] Accessibility considered.
+[ ] Reduced-motion support implemented.
+[ ] Performance optimized.
+---
+FINAL CREATIVE DIRECTION
+Think like a premium digital design agency creating a bespoke website for a landscaping and outdoor living brand.
+The website must have its own visual personality.
+Do not rely on generic AI website patterns.
+Prioritize:
+Original Aura brand identity.
+Exceptional visual design.
+Premium typography.
+Cinematic landscape imagery.
+Sophisticated animation.
+Creative portfolio layouts.
+Conversion-focused user experience.
+Mobile responsiveness.
+SEO and performance.
+The final homepage should look like a premium custom agency website concept, not a generic website builder template.
+The secondary pages must remain extremely simple: one beautiful screen inviting the business owner to hire InoDo.
+Build the complete working website, not just a design mockup or description.
+Start by establishing the design system, then build the complete homepage, implement all five promotional routes, and finish by testing the entire experience.

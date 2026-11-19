@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-orange: #D35400;
+  --color-deep-orange: #C84B00;
+  --color-light-orange: #F0A06A;
+  --color-pure-white: #FFFFFF;
+  --color-soft-white: #F7F7F4;
+  --color-light-gray: #E9E9E5;
+  --color-dark-charcoal: #202020;
+  --color-muted-gray: #777777;
+  --color-natural-green: #354A36;
+  --color-deep-forest: #203328;
+
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Manrope', system-ui, -apple-system, sans-serif;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    color: #202020;
+    background-color: #FFFFFF;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, .font-editorial {
+    font-family: var(--font-display);
+    text-wrap: balance;
+  }
+
+  :focus-visible {
+    outline: 2px solid #D35400;
+    outline-offset: 3px;
+  }
+}
+
+/* Custom subtle editorial utilities */
+.aura-container {
+  width: 90%;
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 1024px) {
+  .aura-container {
+    width: 88%;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
